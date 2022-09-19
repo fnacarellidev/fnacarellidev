@@ -1,6 +1,5 @@
 ### Hello! My name is Fabio, Software Engineering Student at 42SP 👋
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C** at **42 SP**
 - 📫 How to reach me: My E-mail or my LinkedIn, feel free to call me wherever you like
