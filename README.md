@@ -1,12 +1,14 @@
-### Hello! My name is Fabio, Software Engineering Student at 42SP 👋
+Hi there! I'm Fabio, an ambitious and very curious self-learner, i've been studying at [école 42](https://www.42.fr/) since August of 2022. I've always been in love with everything that it's related to computers, in 2021 I started studying programming by myself until I met 42 and got approved by their selective process.
 
+---
 
-- 🌱 I’m currently learning **C** at **42 SP**
+- 🌱 Always learning something.
+- 👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 📫 How to reach me: My E-mail or my LinkedIn, feel free to call me wherever you like
-- ⚡ Fun fact: I just **LOVE** hardware and low-level programming
+-  :octocat: Languages: C, Python, JS
+- ⚡ Fun fact: I **LOVE** hardware and low-level programming
 <div style="display: inline_block"><br>
-<img align="center" alt="Fabin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Fabin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
  
 ## 🚀 42 Projects
 
