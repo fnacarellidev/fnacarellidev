@@ -15,6 +15,7 @@ Hi there! I'm Fabio, an ambitious and very curious self-learner, i've been study
 <div align="center">
 
 [![Libft](https://github.com/fnacarellidev/fnacarellidev/blob/main/42_badges/libftm.png)](https://github.com/fnacarellidev/42-libft)
+[![GNL](https://github.com/fnacarellidev/fnacarellidev/blob/main/42_badges/get_next_linem.png)](https://github.com/fnacarellidev/42-get-next-line)
 
 </div>
 
